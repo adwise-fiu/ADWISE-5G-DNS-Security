@@ -4,13 +4,13 @@ This version of 5G-SDN testbed demo was possible by merging open-source projects
 
 - [OpenvSwitch](https://github.com/openvswitch/ovs "OpenvSwitch")
 
-- [Opendaylight](https://github.com/opendaylight/controller "Opendaylight")
+- [Ryu](https://github.com/faucetsdn/ryu) "Ryu")
 
 - [Open5Gs](https://github.com/open5gs/open5gs "Open5Gs")
 
 - [UERANSIM](https://github.com/aligungr/UERANSIM "UERANSIM")
 
-- [srsRAN](https://github.com/srsran/srsRAN "srsRAN")
+
 
 
 # Design Open-Source SDN-based 5G Standalone Testbed #
