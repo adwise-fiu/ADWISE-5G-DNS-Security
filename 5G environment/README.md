@@ -435,11 +435,11 @@ cd UERANSIM
 * Install the required dependencies 
 
 ```bash 
-sudo apt install make
-sudo apt install gcc
-sudo apt install g++
-sudo apt install libsctp-dev lksctp-tools
-sudo apt install iproute2
+sudo apt install make -y
+sudo apt install gcc -y
+sudo apt install g++ -y
+sudo apt install libsctp-dev lksctp-tools -y
+sudo apt install iproute2 -y
 sudo snap install cmake --classic
 ```
 
