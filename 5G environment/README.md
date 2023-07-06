@@ -263,7 +263,7 @@ You can change the password after login
 
 
 ```bash
-sudo apt update and sudo apt upgrade -y 
+sudo apt update && sudo apt upgrade -y 
 sudo apt install openssh-server -y 
 ```
 
