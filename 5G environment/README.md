@@ -419,7 +419,7 @@ sudo iptables -t nat -A POSTROUTING -s 10.45.0.0/16 ! -o ogstun -j MASQUERADE
 ## Getting the UERANSIM
 
 ```bash
-sudo apt update and sudo apt upgrade -y 
+sudo apt update && sudo apt upgrade -y 
 sudo apt install openssh-server -y 
 sudo apt install git -y
 ```
@@ -557,7 +557,7 @@ cd ..
 ## Getting the UERANSIM
 
 ```bash
-sudo apt update and sudo apt upgrade -y 
+sudo apt update && sudo apt upgrade -y 
 sudo apt install openssh-server -y 
 sudo apt install git -y
 ```
