@@ -69,7 +69,7 @@ sudo ip route add default via 10.102.211.66
 * Install pip for Python3 by executing the following command:
 
 ```bash
-sudo apt install python-pip3
+sudo apt install python3-pip
 ```
 
 * Install Ryu: Open a terminal or command prompt and use the following command to install Ryu using pip3, the Python package installer:
